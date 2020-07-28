@@ -1,3 +1,9 @@
+metadata (0.1.6-2) unstable; urgency=medium
+
+  * Package metadata 0.1.6 for Debian
+
+ -- Zhiming Wang <i@zhimingwang.org>  Tue, 28 Jul 2020 11:53:50 +0800
+
 metadata (0.1.5-3) unstable; urgency=medium
 
   * Switch to dpkg-source 3.0 (quilt) format
