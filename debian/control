@@ -2,7 +2,7 @@ Source: metadata
 Section: video
 Priority: optional
 Maintainer: Zhiming Wang <i@zhimingwang.org>
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 11),
                cargo,
                clang,
                pkg-config,
