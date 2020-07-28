@@ -1,17 +1,23 @@
-metadata (0.1.5-3) unstable; urgency=medium
+metadata (0.1.6-bionic2) bionic; urgency=medium
+
+  * Package metadata 0.1.6 for Debian
+
+ -- Zhiming Wang <i@zhimingwang.org>  Tue, 28 Jul 2020 11:53:50 +0800
+
+metadata (0.1.5-bionic3) bionic; urgency=medium
 
   * Switch to dpkg-source 3.0 (quilt) format
   * Add version to watch file
 
  -- Zhiming Wang <i@zhimingwang.org>  Sun, 26 Jul 2020 22:40:56 +0800
 
-metadata (0.1.5-2) unstable; urgency=medium
+metadata (0.1.5-bionic2) bionic; urgency=medium
 
   * Package metadata 0.1.5 for Debian
 
  -- Zhiming Wang <i@zhimingwang.org>  Sun, 26 Jul 2020 13:40:06 +0800
 
-metadata (0.1.4-2) unstable; urgency=medium
+metadata (0.1.4-bionic2) bionic; urgency=medium
 
   * Package metadata 0.1.4 for Debian
 
